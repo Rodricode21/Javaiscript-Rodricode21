@@ -69,7 +69,7 @@ nav {
 
 .login__btn {
   border: none;
-  background: none;
+  background: chocolate;
   font-size: 2.2rem;
   color: inherit;
   cursor: pointer;
